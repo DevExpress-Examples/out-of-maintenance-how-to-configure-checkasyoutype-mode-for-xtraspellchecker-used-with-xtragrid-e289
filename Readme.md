@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/CheckAsYouTypeInXtraGrid/Form1.cs) (VB: [Form1.vb](./VB/CheckAsYouTypeInXtraGrid/Form1.vb))
+<!-- default file list end -->
 # How to configure CheckAsYouType mode for XtraSpellChecker used with XtraGrid
 
 
